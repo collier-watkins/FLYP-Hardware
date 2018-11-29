@@ -1,10 +1,5 @@
-3D Print case for FLYP Project
+**3D Print case for FLYP Project**
 
-TODO:
-	Implement Micro USB Charging Port
-	Implement NFC Reader Location
-	Provide dimension-accurate mockup of magstripe reader, adjust case to fit
-	Provide dimension-accurate mockup of screen PCB.
-Notes:
-	4 rubber washers are needed for Pi feet. 3mm interior diameter, 3mm tall
+STL files found in Prototype2/Final/ are ready to prepare for 3D printing.
 
+Open .blend files with Blender. Ensure you are in the default view for 3D modeling and viewport shading is set to "Solid". Objects are colored using "materials".
