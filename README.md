@@ -12,19 +12,22 @@
 
 ## Hardware 3D Printing Instructions
 
-Download the most recent prototype .zip file containing the neccessary .stl 3D model files. Import to your 3D printer's software to generate G-Code.
+Download the most recent prototype .zip file and extract its contents. Import the .stl files to your 3D printer's software to generate G-Code and begin printing.
 
 #### Production Notes
 * Material used: 1.5mm PLA at 20% - 40% infill
 * Filing may be required for a snug fit of all parts, depending on settings and tolerance
 * Adhesive may be used to secure some components if neccessary
 
+#### Assembling Hardware in the Case
+Download and install Blender to view the .blender files found in this repo. Blender files labeled "Complete" contain models of all hardware components placed in their intended locations. 
+
 ## Hardware Specifications
 
 #### Complete Hardware List
 | Component        | Part           | URL  |
 | ------------- |:-------------:| -----:|
-| Micro-processor | Raspberry Pi 3 B | https://amzn.to/2RT4Z5w |
+| Micro-Processor | Raspberry Pi 3 B | https://amzn.to/2RT4Z5w |
 | Micro SD Card | SanDisk Ultra 16GB | https://amzn.to/2B9dKkA |
 | Capacitive Touch Display| GeeekPi 5" 800x480 Capacitive Touchscreen  | https://amzn.to/2ryveCI |
 | Battery & Power Management PCB | PiJuice HAT: 1820 mAh | https://amzn.to/2Eg66s0 |
@@ -42,5 +45,3 @@ Download the most recent prototype .zip file containing the neccessary .stl 3D m
 | 3mm Nut x4 | Everbilt M3-0.5x Lock Nut | https://thd.co/2ErH9e1 |
 | 4mm Socket Cap Screws x2 | Everbilt M4-0.5x 6mm | https://thd.co/2tWBVQq |
 | 4mm Nut x2 | Everbilt M4-0.7x Lock Nut | https://thd.co/2ErH9e1 |
-
- 
