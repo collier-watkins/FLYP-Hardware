@@ -42,6 +42,6 @@ Download and install Blender to view the .blender files found in this repo. Blen
 | Micro USB Cable | 90 Degree Angle Down Micro USB Cable | https://amzn.to/2EghnZi |
 | 3mm Socket Cap Screws x6 | Everbilt M3-0.5x 8mm | https://thd.co/2RPJcLV |
 | 3mm Lock Washer x2 | Everbilt M3 Lock Washer | https://thd.co/2L9ibjW |
-| 3mm Nut x4 | Everbilt M3-0.5x Lock Nut | https://thd.co/2ErH9e1 |
+| 3mm Nut x4 | Everbilt M3-0.5x Lock Nut | https://thd.co/2RPJcLV |
 | 4mm Socket Cap Screws x2 | Everbilt M4-0.5x 6mm | https://thd.co/2tWBVQq |
 | 4mm Nut x2 | Everbilt M4-0.7x Lock Nut | https://thd.co/2ErH9e1 |
