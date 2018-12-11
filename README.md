@@ -21,4 +21,12 @@ Download the most recent prototype .zip file containing the neccessary .stl 3D m
 
 ## Hardware Specifications
 
+#### Complete Hardware List
+* Raspberry Pi 3 B
+* GeeekPi 5" 800x480 Capacitive Touchscreen 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
