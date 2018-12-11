@@ -24,7 +24,11 @@ Download the most recent prototype .zip file containing the neccessary .stl 3D m
 #### Complete Hardware List
 | Component        | Part           | URL  |
 | ------------- |:-------------:| -----:|
-| Micro-processor | Raspberry Pi 3 B | https://www.amazon.com/Raspberry-Pi-MS-004-00000024-Model-Board/dp/B01LPLPBS8/ref=sr_1_7?s=pc&ie=UTF8&qid=1537980885&sr=1-7&keywords=raspberry+pi+3 |
-| Capacitive Touch Display| GeekPi 5" 800x480 Capacitive Touchscreen  | https://www.amazon.com/GeeekPi-Capacitive-800x480-Raspberry-BeagleBone/dp/B0749D617J/ref=sr_1_24?ie=UTF8&qid=1537382402&sr=8-24&keywords=raspberry+pi+touchscreen |
-| Battery | PiJuice HAT: 1820 mAh | https://www.amazon.com/PiJuice-HAT-Portable-Platform-Raspberry/dp/B0788B9YGW/ref=sr_1_3?ie=UTF8&qid=1537379425&sr=8-3&keywords=raspberry+pi+battery+hat |
-| 
+| Micro-processor | Raspberry Pi 3 B | https://amzn.to/2RT4Z5w |
+| Capacitive Touch Display| GeekPi 5" 800x480 Capacitive Touchscreen  | https://amzn.to/2ryveCI |
+| Battery | PiJuice HAT: 1820 mAh | https://amzn.to/2Eg66s0 |
+| Wireless Charging Antenna | Universal Micro USB Qi Receiver | https://amzn.to/2RLvU2W |
+| Magnetic Stripe Reader | POSTMATE USB Mini Credit Card Reader | https://amzn.to/2BaCYPH |
+| NFC Reader | ACR1252U USB NFC Reader III | https://amzn.to/2UzjkWq |
+| Power Button | Generic 12mm Momentary Push Button | https://amzn.to/2RPOXsR |
+| Wireless Charging Station | Qi PowerWave 7.5 Wireless Charging Pad | https://amzn.to/2GeOe39 |
