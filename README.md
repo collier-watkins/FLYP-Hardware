@@ -33,7 +33,7 @@ Download and install Blender to view the .blender files found in this repo. Blen
 | Battery & Power Management PCB | PiJuice HAT: 1820 mAh | https://amzn.to/2Eg66s0 |
 | Wireless Charging Antenna | Universal Micro USB Qi Receiver | https://amzn.to/2RLvU2W |
 | Magnetic Stripe Reader | POSTMATE USB Mini Credit Card Reader | https://amzn.to/2BaCYPH |
-| NFC Reader | ACR1252U USB NFC Reader III | https://amzn.to/2UzjkWq |
+| NFC Reader | ACR1252U USB NFC Reader III | https://amzn.to/2zTvoJa |
 | Power Button | Generic 12mm Momentary Push Button | https://amzn.to/2RPOXsR |
 | GPIO Jumper Cable x2 | Female to Male Breadboard Jumper Cables | https://amzn.to/2zUTAuW |
 | Wireless Charging Station | Qi PowerWave 7.5 Wireless Charging Pad | https://amzn.to/2GeOe39 |
